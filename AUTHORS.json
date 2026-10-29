@@ -1,0 +1,54 @@
+{
+  "_comment": "Author block. Every document, citation file, Zenodo record, manuscript author list and commit reads from here. Order is author order. Roles use CRediT terms. Only the corresponding author email is listed, at the author's request.",
+  "authors": [
+    {
+      "name": "Bezali Kwame Danso",
+      "family": "Danso",
+      "given": "Bezali Kwame",
+      "orcid": "0009-0006-1201-4129",
+      "email": "dansobez@msu.edu",
+      "affiliation": "Independent Researcher, East Lansing, Michigan, USA",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Data curation",
+        "Software",
+        "Formal analysis",
+        "Writing - original draft"
+      ],
+      "corresponding": true,
+      "github": "bkdanso"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Josephine Opare Dankwa",
+      "family": "Dankwa",
+      "given": "Josephine Opare",
+      "orcid": "0009-0000-6105-1213",
+      "email": "",
+      "affiliation": "Independent Researcher, Springfield, Missouri, USA",
+      "roles": [
+        "Data curation",
+        "Validation",
+        "Writing - review and editing"
+      ],
+      "corresponding": false
+    },
+    {
+      "name": "Adwoa Aduaba Aidoo",
+      "family": "Aidoo",
+      "given": "Adwoa Aduaba",
+      "orcid": "0009-0000-4363-8651",
+      "email": "",
+      "affiliation": "Independent Researcher, Mine Geologist, Benso, Ghana",
+      "roles": [
+        "Validation",
+        "Investigation",
+        "Writing - review and editing"
+      ],
+      "corresponding": false,
+      "github": "adwoaaduaba"
+    }
+  ]
+}

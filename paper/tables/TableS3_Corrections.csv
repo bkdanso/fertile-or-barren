@@ -1,0 +1,5 @@
+Correction,Rule,Samples affected,Note
+PGE unit correction,"References [23290], [24352]: Pt, Pd, Ir, Ru, Rh, Os divided by 1,000 (ppb entered as ppm)",19,Checked by the authors against the original papers
+MgO guard,MgO < 0.5 wt% blanked in non-anorthosite rocks,69,Remaining low-MgO samples confirmed as anorthosites by the authors
+Ore filter,Samples whose rock name says ore or massive sulfide removed,1,
+Duplicate analyses,Same UNIQUE_ID in more than one GEOROC compilation,14,Kept once

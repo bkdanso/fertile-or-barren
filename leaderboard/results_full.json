@@ -1,0 +1,1790 @@
+{
+  "cu_pd": {
+    "all": {
+      "ALL": {
+        "n_samples": 480,
+        "n_fertile_intrusions": 9,
+        "n_barren_intrusions": 31,
+        "auc_w": 0.36916055340027815,
+        "auc_intrusion": 0.2974910394265233,
+        "ci_low": 0.18632048794679779,
+        "ci_high": 0.5801768322333932,
+        "status": "ok",
+        "coverage": 0.04169924420119885
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 43,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 6,
+        "status": "insufficient",
+        "coverage": 0.018321261184490838
+      },
+      "CUMULATE": {
+        "n_samples": 257,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 19,
+        "auc_w": 0.4409469886896865,
+        "auc_intrusion": 0.3684210526315789,
+        "ci_low": 0.1888602216365061,
+        "ci_high": 0.7160118832295285,
+        "status": "ok",
+        "coverage": 0.06849680170575694
+      },
+      "ALTERED": {
+        "n_samples": 40,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 10,
+        "auc_w": 0.5089583333333334,
+        "auc_intrusion": 0.46,
+        "ci_low": 0.26123958333333325,
+        "ci_high": 0.7675104166666665,
+        "status": "ok",
+        "coverage": 0.0535475234270415
+      },
+      "UNRESOLVED": {
+        "n_samples": 140,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 16,
+        "status": "insufficient",
+        "coverage": 0.030010718113612004
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 369,
+        "n_fertile_intrusions": 9,
+        "n_barren_intrusions": 11,
+        "auc_w": 0.34078721880201646,
+        "auc_intrusion": 0.2474747474747475,
+        "ci_low": 0.14929708081842633,
+        "ci_high": 0.5681039086259114,
+        "status": "ok",
+        "coverage": 0.04860379346680717
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 19,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.011949685534591196
+      },
+      "CUMULATE": {
+        "n_samples": 211,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 8,
+        "auc_w": 0.3924966160640955,
+        "auc_intrusion": 0.30357142857142855,
+        "ci_low": 0.13330265945254421,
+        "ci_high": 0.6824200928124986,
+        "status": "ok",
+        "coverage": 0.0720136518771331
+      },
+      "ALTERED": {
+        "n_samples": 20,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 4,
+        "status": "insufficient",
+        "coverage": 0.04184100418410042
+      },
+      "UNRESOLVED": {
+        "n_samples": 119,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 9,
+        "status": "insufficient",
+        "coverage": 0.045875096376252894
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 197,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 8,
+        "status": "insufficient",
+        "coverage": 0.046287593984962405
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 15,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.029880478087649404
+      },
+      "CUMULATE": {
+        "n_samples": 128,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 7,
+        "status": "insufficient",
+        "coverage": 0.06296114117068372
+      },
+      "ALTERED": {
+        "n_samples": 14,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.04929577464788732
+      },
+      "UNRESOLVED": {
+        "n_samples": 40,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.027835768963117607
+      }
+    }
+  },
+  "cu_pd_dev": {
+    "all": {
+      "ALL": {
+        "n_samples": 480,
+        "n_fertile_intrusions": 9,
+        "n_barren_intrusions": 31,
+        "auc_w": 0.5542949952155587,
+        "auc_intrusion": 0.5483870967741935,
+        "ci_low": 0.4178121318815308,
+        "ci_high": 0.687432017249841,
+        "status": "ok",
+        "coverage": 0.04169924420119885
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 43,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 6,
+        "status": "insufficient",
+        "coverage": 0.018321261184490838
+      },
+      "CUMULATE": {
+        "n_samples": 257,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 19,
+        "auc_w": 0.6860936655341634,
+        "auc_intrusion": 0.706766917293233,
+        "ci_low": 0.527430070826877,
+        "ci_high": 0.8302528922474365,
+        "status": "ok",
+        "coverage": 0.06849680170575694
+      },
+      "ALTERED": {
+        "n_samples": 40,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 10,
+        "auc_w": 0.44104166666666667,
+        "auc_intrusion": 0.56,
+        "ci_low": 0.25853645833333333,
+        "ci_high": 0.63084375,
+        "status": "ok",
+        "coverage": 0.0535475234270415
+      },
+      "UNRESOLVED": {
+        "n_samples": 140,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 16,
+        "status": "insufficient",
+        "coverage": 0.030010718113612004
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 369,
+        "n_fertile_intrusions": 9,
+        "n_barren_intrusions": 11,
+        "auc_w": 0.525614846967233,
+        "auc_intrusion": 0.51010101010101,
+        "ci_low": 0.35610978923191805,
+        "ci_high": 0.6835482707508967,
+        "status": "ok",
+        "coverage": 0.04860379346680717
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 19,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.011949685534591196
+      },
+      "CUMULATE": {
+        "n_samples": 211,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 8,
+        "auc_w": 0.6357357223724677,
+        "auc_intrusion": 0.625,
+        "ci_low": 0.41671083648262924,
+        "ci_high": 0.8345110839474679,
+        "status": "ok",
+        "coverage": 0.0720136518771331
+      },
+      "ALTERED": {
+        "n_samples": 20,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 4,
+        "status": "insufficient",
+        "coverage": 0.04184100418410042
+      },
+      "UNRESOLVED": {
+        "n_samples": 119,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 9,
+        "status": "insufficient",
+        "coverage": 0.045875096376252894
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 197,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 8,
+        "status": "insufficient",
+        "coverage": 0.046287593984962405
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 15,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.029880478087649404
+      },
+      "CUMULATE": {
+        "n_samples": 128,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 7,
+        "status": "insufficient",
+        "coverage": 0.06296114117068372
+      },
+      "ALTERED": {
+        "n_samples": 14,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.04929577464788732
+      },
+      "UNRESOLVED": {
+        "n_samples": 40,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.027835768963117607
+      }
+    }
+  },
+  "pd_ir": {
+    "all": {
+      "ALL": {
+        "n_samples": 576,
+        "n_fertile_intrusions": 10,
+        "n_barren_intrusions": 40,
+        "auc_w": 0.74569157421846,
+        "auc_intrusion": 0.7975,
+        "ci_low": 0.6209967244807345,
+        "ci_high": 0.8493400796787777,
+        "status": "ok",
+        "coverage": 0.05003909304143862
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 36,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 5,
+        "status": "insufficient",
+        "coverage": 0.01533873029399233
+      },
+      "CUMULATE": {
+        "n_samples": 364,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 30,
+        "auc_w": 0.7635084611118395,
+        "auc_intrusion": 0.8,
+        "ci_low": 0.622971677826528,
+        "ci_high": 0.879892243045269,
+        "status": "ok",
+        "coverage": 0.09701492537313433
+      },
+      "ALTERED": {
+        "n_samples": 23,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 8,
+        "status": "insufficient",
+        "coverage": 0.030789825970548863
+      },
+      "UNRESOLVED": {
+        "n_samples": 153,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 18,
+        "status": "insufficient",
+        "coverage": 0.03279742765273312
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 310,
+        "n_fertile_intrusions": 10,
+        "n_barren_intrusions": 8,
+        "auc_w": 0.7094147694439091,
+        "auc_intrusion": 0.825,
+        "ci_low": 0.5444464722910421,
+        "ci_high": 0.8504600536329145,
+        "status": "ok",
+        "coverage": 0.04083245521601686
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 13,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 0,
+        "status": "insufficient",
+        "coverage": 0.008176100628930818
+      },
+      "CUMULATE": {
+        "n_samples": 210,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 6,
+        "auc_w": 0.7394896140094369,
+        "auc_intrusion": 0.8095238095238095,
+        "ci_low": 0.5458293321424206,
+        "ci_high": 0.8915841098938212,
+        "status": "ok",
+        "coverage": 0.07167235494880546
+      },
+      "ALTERED": {
+        "n_samples": 11,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.02301255230125523
+      },
+      "UNRESOLVED": {
+        "n_samples": 76,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 6,
+        "status": "insufficient",
+        "coverage": 0.029298380878951428
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 237,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 13,
+        "status": "insufficient",
+        "coverage": 0.05568609022556391
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 13,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.025896414342629483
+      },
+      "CUMULATE": {
+        "n_samples": 173,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 11,
+        "status": "insufficient",
+        "coverage": 0.08509591736350221
+      },
+      "ALTERED": {
+        "n_samples": 8,
+        "n_fertile_intrusions": 0,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.028169014084507043
+      },
+      "UNRESOLVED": {
+        "n_samples": 43,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 5,
+        "status": "insufficient",
+        "coverage": 0.029923451635351428
+      }
+    }
+  },
+  "pt_pd": {
+    "all": {
+      "ALL": {
+        "n_samples": 664,
+        "n_fertile_intrusions": 9,
+        "n_barren_intrusions": 46,
+        "auc_w": 0.7143949533556393,
+        "auc_intrusion": 0.7536231884057971,
+        "ci_low": 0.5910804336118903,
+        "ci_high": 0.8263666419444973,
+        "status": "ok",
+        "coverage": 0.057683954478325083
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 41,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 6,
+        "status": "insufficient",
+        "coverage": 0.017469109501491265
+      },
+      "CUMULATE": {
+        "n_samples": 389,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 33,
+        "auc_w": 0.7313726521041762,
+        "auc_intrusion": 0.7765151515151515,
+        "ci_low": 0.5988313372525362,
+        "ci_high": 0.8544941773113347,
+        "status": "ok",
+        "coverage": 0.10367803837953092
+      },
+      "ALTERED": {
+        "n_samples": 34,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 10,
+        "status": "insufficient",
+        "coverage": 0.04551539491298527
+      },
+      "UNRESOLVED": {
+        "n_samples": 200,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 20,
+        "status": "insufficient",
+        "coverage": 0.04287245444801715
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 385,
+        "n_fertile_intrusions": 9,
+        "n_barren_intrusions": 12,
+        "auc_w": 0.6866336845181998,
+        "auc_intrusion": 0.7268518518518519,
+        "ci_low": 0.5081673380326791,
+        "ci_high": 0.8362742516104189,
+        "status": "ok",
+        "coverage": 0.05071127502634352
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 18,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.011320754716981131
+      },
+      "CUMULATE": {
+        "n_samples": 232,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 8,
+        "auc_w": 0.7644278263659392,
+        "auc_intrusion": 0.796875,
+        "ci_low": 0.5723999854226649,
+        "ci_high": 0.911709627682916,
+        "status": "ok",
+        "coverage": 0.07918088737201365
+      },
+      "ALTERED": {
+        "n_samples": 14,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 4,
+        "status": "insufficient",
+        "coverage": 0.029288702928870293
+      },
+      "UNRESOLVED": {
+        "n_samples": 121,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 8,
+        "status": "insufficient",
+        "coverage": 0.04664610639938319
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 287,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 14,
+        "status": "insufficient",
+        "coverage": 0.06743421052631579
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 15,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.029880478087649404
+      },
+      "CUMULATE": {
+        "n_samples": 194,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 12,
+        "status": "insufficient",
+        "coverage": 0.0954254795868175
+      },
+      "ALTERED": {
+        "n_samples": 14,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.04929577464788732
+      },
+      "UNRESOLVED": {
+        "n_samples": 64,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 5,
+        "status": "insufficient",
+        "coverage": 0.04453723034098817
+      }
+    }
+  },
+  "cu_zr": {
+    "all": {
+      "ALL": {
+        "n_samples": 5883,
+        "n_fertile_intrusions": 25,
+        "n_barren_intrusions": 266,
+        "auc_w": 0.3052234614838237,
+        "auc_intrusion": 0.2586466165413534,
+        "ci_low": 0.2346079539384507,
+        "ci_high": 0.3789658445794786,
+        "status": "ok",
+        "coverage": 0.5110763617409434
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1295,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 74,
+        "status": "insufficient",
+        "coverage": 0.5517682147422242
+      },
+      "CUMULATE": {
+        "n_samples": 1491,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 96,
+        "auc_w": 0.3531907617805204,
+        "auc_intrusion": 0.32002314814814814,
+        "ci_low": 0.2546973910141434,
+        "ci_high": 0.45694307220447533,
+        "status": "ok",
+        "coverage": 0.39738805970149255
+      },
+      "ALTERED": {
+        "n_samples": 454,
+        "n_fertile_intrusions": 16,
+        "n_barren_intrusions": 71,
+        "auc_w": 0.20045832962154841,
+        "auc_intrusion": 0.1795774647887324,
+        "ci_low": 0.11335585317523567,
+        "ci_high": 0.3048430669940403,
+        "status": "ok",
+        "coverage": 0.607764390896921
+      },
+      "UNRESOLVED": {
+        "n_samples": 2643,
+        "n_fertile_intrusions": 20,
+        "n_barren_intrusions": 180,
+        "auc_w": 0.4060941699631356,
+        "auc_intrusion": 0.38166666666666665,
+        "ci_low": 0.30458405146836337,
+        "ci_high": 0.5158666557581952,
+        "status": "ok",
+        "coverage": 0.5665594855305466
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 4072,
+        "n_fertile_intrusions": 25,
+        "n_barren_intrusions": 67,
+        "auc_w": 0.33348522772792094,
+        "auc_intrusion": 0.2961194029850746,
+        "ci_low": 0.2509724332666604,
+        "ci_high": 0.42238272852683856,
+        "status": "ok",
+        "coverage": 0.5363540569020021
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 981,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 29,
+        "status": "insufficient",
+        "coverage": 0.6169811320754717
+      },
+      "CUMULATE": {
+        "n_samples": 1140,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 31,
+        "auc_w": 0.36835097746942563,
+        "auc_intrusion": 0.34946236559139787,
+        "ci_low": 0.2527371712609628,
+        "ci_high": 0.4925540534650961,
+        "status": "ok",
+        "coverage": 0.3890784982935154
+      },
+      "ALTERED": {
+        "n_samples": 290,
+        "n_fertile_intrusions": 16,
+        "n_barren_intrusions": 30,
+        "auc_w": 0.18699163183542,
+        "auc_intrusion": 0.15416666666666667,
+        "ci_low": 0.09185822468570033,
+        "ci_high": 0.30562422158654523,
+        "status": "ok",
+        "coverage": 0.606694560669456
+      },
+      "UNRESOLVED": {
+        "n_samples": 1661,
+        "n_fertile_intrusions": 20,
+        "n_barren_intrusions": 43,
+        "auc_w": 0.4270269177059152,
+        "auc_intrusion": 0.4197674418604651,
+        "ci_low": 0.3210399332809082,
+        "ci_high": 0.546368439173528,
+        "status": "ok",
+        "coverage": 0.6403238242097147
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 1683,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 77,
+        "auc_w": 0.31128407025867916,
+        "auc_intrusion": 0.2560296846011132,
+        "ci_low": 0.19879071286291788,
+        "ci_high": 0.4498821021579723,
+        "status": "ok",
+        "coverage": 0.3954417293233083
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 208,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 20,
+        "status": "insufficient",
+        "coverage": 0.41434262948207173
+      },
+      "CUMULATE": {
+        "n_samples": 620,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 26,
+        "auc_w": 0.4156974198626614,
+        "auc_intrusion": 0.40384615384615385,
+        "ci_low": 0.26700052413828257,
+        "ci_high": 0.5609339694918997,
+        "status": "ok",
+        "coverage": 0.3049680275454993
+      },
+      "ALTERED": {
+        "n_samples": 123,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 17,
+        "status": "insufficient",
+        "coverage": 0.43309859154929575
+      },
+      "UNRESOLVED": {
+        "n_samples": 732,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 53,
+        "auc_w": 0.37456763621331657,
+        "auc_intrusion": 0.3450134770889488,
+        "ci_low": 0.23082333175207442,
+        "ci_high": 0.5344917335071709,
+        "status": "ok",
+        "coverage": 0.5093945720250522
+      }
+    }
+  },
+  "ni_cu": {
+    "all": {
+      "ALL": {
+        "n_samples": 6200,
+        "n_fertile_intrusions": 29,
+        "n_barren_intrusions": 264,
+        "auc_w": 0.3683416845614647,
+        "auc_intrusion": 0.3248432601880878,
+        "ci_low": 0.30432093334312077,
+        "ci_high": 0.4304967650847854,
+        "status": "ok",
+        "coverage": 0.5386152375988186
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1365,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 76,
+        "auc_w": 0.3709701086839417,
+        "auc_intrusion": 0.32456140350877194,
+        "ci_low": 0.17222900793868623,
+        "ci_high": 0.6328797532600047,
+        "status": "ok",
+        "coverage": 0.5815935236472092
+      },
+      "CUMULATE": {
+        "n_samples": 1683,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 99,
+        "auc_w": 0.5463588594929218,
+        "auc_intrusion": 0.5584415584415584,
+        "ci_low": 0.444668252515881,
+        "ci_high": 0.643735807351739,
+        "status": "ok",
+        "coverage": 0.44856076759061836
+      },
+      "ALTERED": {
+        "n_samples": 488,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 72,
+        "auc_w": 0.548085836207481,
+        "auc_intrusion": 0.5131172839506173,
+        "ci_low": 0.4305008634718977,
+        "ci_high": 0.659330143170565,
+        "status": "ok",
+        "coverage": 0.6532797858099063
+      },
+      "UNRESOLVED": {
+        "n_samples": 2664,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 178,
+        "auc_w": 0.43259649094515273,
+        "auc_intrusion": 0.41037988228999467,
+        "ci_low": 0.3534896262978102,
+        "ci_high": 0.5145175112676905,
+        "status": "ok",
+        "coverage": 0.5710610932475885
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 4378,
+        "n_fertile_intrusions": 29,
+        "n_barren_intrusions": 69,
+        "auc_w": 0.3458718418080381,
+        "auc_intrusion": 0.28735632183908044,
+        "ci_low": 0.2660813387137221,
+        "ci_high": 0.4256292591967714,
+        "status": "ok",
+        "coverage": 0.5766596417281349
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1040,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 30,
+        "auc_w": 0.3568398826693687,
+        "auc_intrusion": 0.3,
+        "ci_low": 0.15099696495427828,
+        "ci_high": 0.6240231038134146,
+        "status": "ok",
+        "coverage": 0.6540880503144654
+      },
+      "CUMULATE": {
+        "n_samples": 1324,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 33,
+        "auc_w": 0.5382138684026057,
+        "auc_intrusion": 0.56998556998557,
+        "ci_low": 0.41955759836359385,
+        "ci_high": 0.6639106661584726,
+        "status": "ok",
+        "coverage": 0.451877133105802
+      },
+      "ALTERED": {
+        "n_samples": 325,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 30,
+        "auc_w": 0.5096452893485812,
+        "auc_intrusion": 0.4777777777777778,
+        "ci_low": 0.3656060346674554,
+        "ci_high": 0.6533260848061774,
+        "status": "ok",
+        "coverage": 0.6799163179916318
+      },
+      "UNRESOLVED": {
+        "n_samples": 1689,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 44,
+        "auc_w": 0.40631484045264743,
+        "auc_intrusion": 0.35714285714285715,
+        "ci_low": 0.30859814724061524,
+        "ci_high": 0.5119466188311123,
+        "status": "ok",
+        "coverage": 0.651117964533539
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 1821,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 76,
+        "auc_w": 0.3579322094342344,
+        "auc_intrusion": 0.3082706766917293,
+        "ci_low": 0.2571393739815962,
+        "ci_high": 0.47052199967774594,
+        "status": "ok",
+        "coverage": 0.4278665413533835
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 263,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 21,
+        "status": "insufficient",
+        "coverage": 0.5239043824701195
+      },
+      "CUMULATE": {
+        "n_samples": 666,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 28,
+        "auc_w": 0.6107760779882349,
+        "auc_intrusion": 0.6071428571428571,
+        "ci_low": 0.48188205545654933,
+        "ci_high": 0.739442932032186,
+        "status": "ok",
+        "coverage": 0.32759468765371375
+      },
+      "ALTERED": {
+        "n_samples": 152,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 18,
+        "auc_w": 0.617380109145541,
+        "auc_intrusion": 0.6111111111111112,
+        "ci_low": 0.4325683751091156,
+        "ci_high": 0.7880746183172104,
+        "status": "ok",
+        "coverage": 0.5352112676056338
+      },
+      "UNRESOLVED": {
+        "n_samples": 740,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 50,
+        "auc_w": 0.38237466421151584,
+        "auc_intrusion": 0.33714285714285713,
+        "ci_low": 0.2575818372192411,
+        "ci_high": 0.5000598723355486,
+        "status": "ok",
+        "coverage": 0.5149617258176757
+      }
+    }
+  },
+  "ni_depletion": {
+    "all": {
+      "ALL": {
+        "n_samples": 7339,
+        "n_fertile_intrusions": 27,
+        "n_barren_intrusions": 358,
+        "auc_w": 0.34083399866505276,
+        "auc_intrusion": 0.2941237326712187,
+        "ci_low": 0.2757513449182953,
+        "ci_high": 0.4061325843165032,
+        "status": "ok",
+        "coverage": 0.6375640691512466
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1529,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 99,
+        "auc_w": 0.40446432305429764,
+        "auc_intrusion": 0.397979797979798,
+        "ci_low": 0.1404644938227248,
+        "ci_high": 0.666461347614464,
+        "status": "ok",
+        "coverage": 0.6514699616531743
+      },
+      "CUMULATE": {
+        "n_samples": 2397,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 120,
+        "auc_w": 0.40332382921754456,
+        "auc_intrusion": 0.38796296296296295,
+        "ci_low": 0.3063455612205455,
+        "ci_high": 0.5088848915213879,
+        "status": "ok",
+        "coverage": 0.6388592750533049
+      },
+      "ALTERED": {
+        "n_samples": 566,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 87,
+        "auc_w": 0.363307288764196,
+        "auc_intrusion": 0.33652618135376755,
+        "ci_low": 0.25658298917466227,
+        "ci_high": 0.4781138007956934,
+        "status": "ok",
+        "coverage": 0.7576974564926372
+      },
+      "UNRESOLVED": {
+        "n_samples": 2847,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 234,
+        "auc_w": 0.4073070231887898,
+        "auc_intrusion": 0.39295889295889297,
+        "ci_low": 0.29915759651445767,
+        "ci_high": 0.5150511617134321,
+        "status": "ok",
+        "coverage": 0.6102893890675242
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 5108,
+        "n_fertile_intrusions": 27,
+        "n_barren_intrusions": 81,
+        "auc_w": 0.3670725072284828,
+        "auc_intrusion": 0.30498399634202106,
+        "ci_low": 0.28785111231472044,
+        "ci_high": 0.45140823746861275,
+        "status": "ok",
+        "coverage": 0.672813487881981
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1101,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 34,
+        "auc_w": 0.404898938557546,
+        "auc_intrusion": 0.3764705882352941,
+        "ci_low": 0.13760486655341908,
+        "ci_high": 0.7020312210939451,
+        "status": "ok",
+        "coverage": 0.6924528301886792
+      },
+      "CUMULATE": {
+        "n_samples": 1962,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 39,
+        "auc_w": 0.45361409652089374,
+        "auc_intrusion": 0.4287749287749288,
+        "ci_low": 0.33144961331924766,
+        "ci_high": 0.5819360028986932,
+        "status": "ok",
+        "coverage": 0.6696245733788396
+      },
+      "ALTERED": {
+        "n_samples": 367,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 33,
+        "auc_w": 0.41120412396635386,
+        "auc_intrusion": 0.38047138047138046,
+        "ci_low": 0.2765548909614654,
+        "ci_high": 0.5519556613122356,
+        "status": "ok",
+        "coverage": 0.7677824267782427
+      },
+      "UNRESOLVED": {
+        "n_samples": 1678,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 50,
+        "auc_w": 0.42641754214265004,
+        "auc_intrusion": 0.4104761904761905,
+        "ci_low": 0.31105209778607834,
+        "ci_high": 0.54462701014878,
+        "status": "ok",
+        "coverage": 0.6468774094063223
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 2933,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 103,
+        "auc_w": 0.4306596818854648,
+        "auc_intrusion": 0.39684466019417475,
+        "ci_low": 0.3187134376275967,
+        "ci_high": 0.5626641188680811,
+        "status": "ok",
+        "coverage": 0.6891447368421053
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 235,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 27,
+        "status": "insufficient",
+        "coverage": 0.4681274900398406
+      },
+      "CUMULATE": {
+        "n_samples": 1656,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 36,
+        "auc_w": 0.46167339573179517,
+        "auc_intrusion": 0.503968253968254,
+        "ci_low": 0.3443227340507434,
+        "ci_high": 0.5901214491150216,
+        "status": "ok",
+        "coverage": 0.8145597638957206
+      },
+      "ALTERED": {
+        "n_samples": 193,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 21,
+        "auc_w": 0.3344622211024328,
+        "auc_intrusion": 0.3253968253968254,
+        "ci_low": 0.16249495140368156,
+        "ci_high": 0.5452633986080214,
+        "status": "ok",
+        "coverage": 0.6795774647887324
+      },
+      "UNRESOLVED": {
+        "n_samples": 849,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 69,
+        "auc_w": 0.38866399927182027,
+        "auc_intrusion": 0.38405797101449274,
+        "ci_low": 0.24030155883667983,
+        "ci_high": 0.5459107829514371,
+        "status": "ok",
+        "coverage": 0.5908141962421712
+      }
+    }
+  },
+  "th_nb": {
+    "all": {
+      "ALL": {
+        "n_samples": 6558,
+        "n_fertile_intrusions": 26,
+        "n_barren_intrusions": 351,
+        "auc_w": 0.5574285174108395,
+        "auc_intrusion": 0.5749506903353058,
+        "ci_low": 0.4690071284211886,
+        "ci_high": 0.6526096674323407,
+        "status": "ok",
+        "coverage": 0.5697159238988794
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1359,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 89,
+        "status": "insufficient",
+        "coverage": 0.5790370685982105
+      },
+      "CUMULATE": {
+        "n_samples": 1547,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 116,
+        "auc_w": 0.5165276745335476,
+        "auc_intrusion": 0.5105363984674329,
+        "ci_low": 0.39679503616716916,
+        "ci_high": 0.6308179289447846,
+        "status": "ok",
+        "coverage": 0.4123134328358209
+      },
+      "ALTERED": {
+        "n_samples": 482,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 82,
+        "auc_w": 0.5817935331443131,
+        "auc_intrusion": 0.5813008130081301,
+        "ci_low": 0.4532620581385099,
+        "ci_high": 0.7072500500539304,
+        "status": "ok",
+        "coverage": 0.6452476572958501
+      },
+      "UNRESOLVED": {
+        "n_samples": 3170,
+        "n_fertile_intrusions": 20,
+        "n_barren_intrusions": 244,
+        "auc_w": 0.5372100953672752,
+        "auc_intrusion": 0.5477459016393442,
+        "ci_low": 0.42774323708337253,
+        "ci_high": 0.6401154807198993,
+        "status": "ok",
+        "coverage": 0.6795284030010718
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 4008,
+        "n_fertile_intrusions": 26,
+        "n_barren_intrusions": 70,
+        "auc_w": 0.5952225447654889,
+        "auc_intrusion": 0.6315934065934066,
+        "ci_low": 0.4930954152466731,
+        "ci_high": 0.7023274563888009,
+        "status": "ok",
+        "coverage": 0.5279241306638567
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 923,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 29,
+        "status": "insufficient",
+        "coverage": 0.580503144654088
+      },
+      "CUMULATE": {
+        "n_samples": 1077,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 33,
+        "auc_w": 0.5618402688190061,
+        "auc_intrusion": 0.5606060606060606,
+        "ci_low": 0.42015523753981165,
+        "ci_high": 0.6973804829379266,
+        "status": "ok",
+        "coverage": 0.3675767918088737
+      },
+      "ALTERED": {
+        "n_samples": 279,
+        "n_fertile_intrusions": 18,
+        "n_barren_intrusions": 25,
+        "auc_w": 0.5899529750450001,
+        "auc_intrusion": 0.58,
+        "ci_low": 0.43363205013325967,
+        "ci_high": 0.7421916311788737,
+        "status": "ok",
+        "coverage": 0.5836820083682008
+      },
+      "UNRESOLVED": {
+        "n_samples": 1729,
+        "n_fertile_intrusions": 20,
+        "n_barren_intrusions": 48,
+        "auc_w": 0.5854323332665318,
+        "auc_intrusion": 0.609375,
+        "ci_low": 0.4698341755589983,
+        "ci_high": 0.698358077544297,
+        "status": "ok",
+        "coverage": 0.6665381649961449
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 1916,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 102,
+        "auc_w": 0.7174890569937572,
+        "auc_intrusion": 0.7787114845938375,
+        "ci_low": 0.6080423503251762,
+        "ci_high": 0.8198989584104623,
+        "status": "ok",
+        "coverage": 0.450187969924812
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 258,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 24,
+        "status": "insufficient",
+        "coverage": 0.5139442231075697
+      },
+      "CUMULATE": {
+        "n_samples": 615,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 31,
+        "auc_w": 0.6151081963616833,
+        "auc_intrusion": 0.6505376344086021,
+        "ci_low": 0.4353700718544036,
+        "ci_high": 0.7934488001845693,
+        "status": "ok",
+        "coverage": 0.3025086079685194
+      },
+      "ALTERED": {
+        "n_samples": 139,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 19,
+        "auc_w": 0.5799051149197347,
+        "auc_intrusion": 0.5877192982456141,
+        "ci_low": 0.3301561300135861,
+        "ci_high": 0.8227890591377426,
+        "status": "ok",
+        "coverage": 0.4894366197183099
+      },
+      "UNRESOLVED": {
+        "n_samples": 904,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 71,
+        "auc_w": 0.7548554260977568,
+        "auc_intrusion": 0.7847082494969819,
+        "ci_low": 0.6440763863897373,
+        "ci_high": 0.8544427436063068,
+        "status": "ok",
+        "coverage": 0.6290883785664579
+      }
+    }
+  },
+  "la_sm": {
+    "all": {
+      "ALL": {
+        "n_samples": 6837,
+        "n_fertile_intrusions": 28,
+        "n_barren_intrusions": 370,
+        "auc_w": 0.5076474897311617,
+        "auc_intrusion": 0.5161196911196911,
+        "ci_low": 0.42497845955514396,
+        "ci_high": 0.5898688671196489,
+        "status": "ok",
+        "coverage": 0.5939536095908262
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1409,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 92,
+        "status": "insufficient",
+        "coverage": 0.6003408606731998
+      },
+      "CUMULATE": {
+        "n_samples": 1719,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 132,
+        "auc_w": 0.5476343846108636,
+        "auc_intrusion": 0.5676406926406926,
+        "ci_low": 0.44085613865762013,
+        "ci_high": 0.6537630671312058,
+        "status": "ok",
+        "coverage": 0.4581556503198294
+      },
+      "ALTERED": {
+        "n_samples": 534,
+        "n_fertile_intrusions": 19,
+        "n_barren_intrusions": 87,
+        "auc_w": 0.5292381275897907,
+        "auc_intrusion": 0.5450695704779189,
+        "ci_low": 0.41908408283292503,
+        "ci_high": 0.6413973596319165,
+        "status": "ok",
+        "coverage": 0.714859437751004
+      },
+      "UNRESOLVED": {
+        "n_samples": 3175,
+        "n_fertile_intrusions": 22,
+        "n_barren_intrusions": 258,
+        "auc_w": 0.5086213341315691,
+        "auc_intrusion": 0.5003523608174771,
+        "ci_low": 0.40509260259795354,
+        "ci_high": 0.6099203805365738,
+        "status": "ok",
+        "coverage": 0.6806002143622722
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 4146,
+        "n_fertile_intrusions": 28,
+        "n_barren_intrusions": 72,
+        "auc_w": 0.5443807631249327,
+        "auc_intrusion": 0.5753968253968254,
+        "ci_low": 0.4474803639038584,
+        "ci_high": 0.6439841390823354,
+        "status": "ok",
+        "coverage": 0.5461011591148578
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 962,
+        "n_fertile_intrusions": 4,
+        "n_barren_intrusions": 28,
+        "status": "insufficient",
+        "coverage": 0.6050314465408805
+      },
+      "CUMULATE": {
+        "n_samples": 1181,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 39,
+        "auc_w": 0.5360996961800704,
+        "auc_intrusion": 0.5647130647130647,
+        "ci_low": 0.41394925906174906,
+        "ci_high": 0.6506814417479068,
+        "status": "ok",
+        "coverage": 0.4030716723549488
+      },
+      "ALTERED": {
+        "n_samples": 323,
+        "n_fertile_intrusions": 19,
+        "n_barren_intrusions": 30,
+        "auc_w": 0.5966199734793236,
+        "auc_intrusion": 0.6350877192982456,
+        "ci_low": 0.4538141689522819,
+        "ci_high": 0.7326626167560105,
+        "status": "ok",
+        "coverage": 0.6757322175732218
+      },
+      "UNRESOLVED": {
+        "n_samples": 1680,
+        "n_fertile_intrusions": 22,
+        "n_barren_intrusions": 49,
+        "auc_w": 0.5566324336933769,
+        "auc_intrusion": 0.5584415584415584,
+        "ci_low": 0.4407019442691578,
+        "ci_high": 0.6746446177666106,
+        "status": "ok",
+        "coverage": 0.6476484194294526
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 2012,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 109,
+        "auc_w": 0.5971268693307245,
+        "auc_intrusion": 0.6181192660550459,
+        "ci_low": 0.44937779249172055,
+        "ci_high": 0.7282211882143101,
+        "status": "ok",
+        "coverage": 0.47274436090225563
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 252,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 23,
+        "status": "insufficient",
+        "coverage": 0.50199203187251
+      },
+      "CUMULATE": {
+        "n_samples": 703,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 40,
+        "auc_w": 0.667228122885765,
+        "auc_intrusion": 0.7214285714285714,
+        "ci_low": 0.5435035046521725,
+        "ci_high": 0.7822968837098127,
+        "status": "ok",
+        "coverage": 0.34579439252336447
+      },
+      "ALTERED": {
+        "n_samples": 162,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 22,
+        "auc_w": 0.7567343545649327,
+        "auc_intrusion": 0.7803030303030303,
+        "ci_low": 0.5744773318585304,
+        "ci_high": 0.9007581496786041,
+        "status": "ok",
+        "coverage": 0.5704225352112676
+      },
+      "UNRESOLVED": {
+        "n_samples": 895,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 77,
+        "auc_w": 0.5772439064338442,
+        "auc_intrusion": 0.5547309833024119,
+        "ci_low": 0.3992704243009646,
+        "ci_high": 0.7375346034106912,
+        "status": "ok",
+        "coverage": 0.6228253305497564
+      }
+    }
+  },
+  "zr_y": {
+    "all": {
+      "ALL": {
+        "n_samples": 7661,
+        "n_fertile_intrusions": 29,
+        "n_barren_intrusions": 384,
+        "auc_w": 0.488451077397127,
+        "auc_intrusion": 0.47009698275862066,
+        "ci_low": 0.410625650853024,
+        "ci_high": 0.5743705207810412,
+        "status": "ok",
+        "coverage": 0.6655373121362176
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1811,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 105,
+        "auc_w": 0.4582709983403382,
+        "auc_intrusion": 0.44952380952380955,
+        "ci_low": 0.2044646002146129,
+        "ci_high": 0.7156282134597569,
+        "status": "ok",
+        "coverage": 0.7716233489561142
+      },
+      "CUMULATE": {
+        "n_samples": 1727,
+        "n_fertile_intrusions": 20,
+        "n_barren_intrusions": 129,
+        "auc_w": 0.5198030731142037,
+        "auc_intrusion": 0.5253875968992248,
+        "ci_low": 0.4139656038556164,
+        "ci_high": 0.6286040076887314,
+        "status": "ok",
+        "coverage": 0.4602878464818763
+      },
+      "ALTERED": {
+        "n_samples": 558,
+        "n_fertile_intrusions": 19,
+        "n_barren_intrusions": 93,
+        "auc_w": 0.4644646341517931,
+        "auc_intrusion": 0.43746462931522356,
+        "ci_low": 0.3380078591378916,
+        "ci_high": 0.5932501232323487,
+        "status": "ok",
+        "coverage": 0.7469879518072289
+      },
+      "UNRESOLVED": {
+        "n_samples": 3565,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 266,
+        "auc_w": 0.4949450580558136,
+        "auc_intrusion": 0.48621553884711777,
+        "ci_low": 0.3973385385959094,
+        "ci_high": 0.6019195902671017,
+        "status": "ok",
+        "coverage": 0.7642015005359056
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 4754,
+        "n_fertile_intrusions": 29,
+        "n_barren_intrusions": 77,
+        "auc_w": 0.4910771198037536,
+        "auc_intrusion": 0.47245857590685175,
+        "ci_low": 0.39325902725303746,
+        "ci_high": 0.6000606131734962,
+        "status": "ok",
+        "coverage": 0.6261854583772392
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 1268,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 35,
+        "auc_w": 0.4966596895895847,
+        "auc_intrusion": 0.49714285714285716,
+        "ci_low": 0.22776535005245815,
+        "ci_high": 0.7834691807239348,
+        "status": "ok",
+        "coverage": 0.7974842767295598
+      },
+      "CUMULATE": {
+        "n_samples": 1215,
+        "n_fertile_intrusions": 20,
+        "n_barren_intrusions": 38,
+        "auc_w": 0.49231424241808264,
+        "auc_intrusion": 0.48289473684210527,
+        "ci_low": 0.36656656651644737,
+        "ci_high": 0.6192820138490746,
+        "status": "ok",
+        "coverage": 0.41467576791808874
+      },
+      "ALTERED": {
+        "n_samples": 343,
+        "n_fertile_intrusions": 19,
+        "n_barren_intrusions": 34,
+        "auc_w": 0.48178400125979226,
+        "auc_intrusion": 0.4411764705882353,
+        "ci_low": 0.33898319340362404,
+        "ci_high": 0.629268071166088,
+        "status": "ok",
+        "coverage": 0.7175732217573222
+      },
+      "UNRESOLVED": {
+        "n_samples": 1928,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 50,
+        "auc_w": 0.5118981781411319,
+        "auc_intrusion": 0.5142857142857142,
+        "ci_low": 0.39920605940786835,
+        "ci_high": 0.6271098489335643,
+        "status": "ok",
+        "coverage": 0.7432536622976099
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 2217,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 111,
+        "auc_w": 0.5742213766043782,
+        "auc_intrusion": 0.5630630630630631,
+        "ci_low": 0.4285154701322714,
+        "ci_high": 0.7315645320180989,
+        "status": "ok",
+        "coverage": 0.5209116541353384
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 327,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 29,
+        "status": "insufficient",
+        "coverage": 0.651394422310757
+      },
+      "CUMULATE": {
+        "n_samples": 708,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 35,
+        "auc_w": 0.6076830300092395,
+        "auc_intrusion": 0.6163265306122448,
+        "ci_low": 0.4401053973639379,
+        "ci_high": 0.7740283595084742,
+        "status": "ok",
+        "coverage": 0.34825381210034434
+      },
+      "ALTERED": {
+        "n_samples": 158,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 21,
+        "auc_w": 0.7107882172696988,
+        "auc_intrusion": 0.7142857142857143,
+        "ci_low": 0.4795936213991768,
+        "ci_high": 0.910920128152271,
+        "status": "ok",
+        "coverage": 0.5563380281690141
+      },
+      "UNRESOLVED": {
+        "n_samples": 1024,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 78,
+        "auc_w": 0.553619697969041,
+        "auc_intrusion": 0.5336538461538461,
+        "ci_low": 0.3956921312310195,
+        "ci_high": 0.7159669995036836,
+        "status": "ok",
+        "coverage": 0.7125956854558108
+      }
+    }
+  },
+  "s": {
+    "all": {
+      "ALL": {
+        "n_samples": 1199,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 48,
+        "auc_w": 0.5975995103032564,
+        "auc_intrusion": 0.6259920634920635,
+        "ci_low": 0.4654680156502873,
+        "ci_high": 0.7243360098034426,
+        "status": "ok",
+        "coverage": 0.10416123707757798
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 105,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 16,
+        "auc_w": 0.4069980158730159,
+        "auc_intrusion": 0.4125,
+        "ci_low": 0.2010132688492063,
+        "ci_high": 0.6099446631493505,
+        "status": "ok",
+        "coverage": 0.04473796335747763
+      },
+      "CUMULATE": {
+        "n_samples": 541,
+        "n_fertile_intrusions": 16,
+        "n_barren_intrusions": 22,
+        "auc_w": 0.6905276723496386,
+        "auc_intrusion": 0.7414772727272727,
+        "ci_low": 0.5398094592509064,
+        "ci_high": 0.8276792098886907,
+        "status": "ok",
+        "coverage": 0.1441897654584222
+      },
+      "ALTERED": {
+        "n_samples": 114,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 9,
+        "auc_w": 0.6606768037663266,
+        "auc_intrusion": 0.7638888888888888,
+        "ci_low": 0.41961773405349784,
+        "ci_high": 0.8502926909302871,
+        "status": "ok",
+        "coverage": 0.15261044176706828
+      },
+      "UNRESOLVED": {
+        "n_samples": 439,
+        "n_fertile_intrusions": 14,
+        "n_barren_intrusions": 28,
+        "auc_w": 0.5978373722399862,
+        "auc_intrusion": 0.610969387755102,
+        "ci_low": 0.4122133438168948,
+        "ci_high": 0.7660345566086042,
+        "status": "ok",
+        "coverage": 0.09410503751339765
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 967,
+        "n_fertile_intrusions": 21,
+        "n_barren_intrusions": 12,
+        "auc_w": 0.6023349703106634,
+        "auc_intrusion": 0.6170634920634921,
+        "ci_low": 0.44450853090365555,
+        "ci_high": 0.753680763057976,
+        "status": "ok",
+        "coverage": 0.1273709167544784
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 36,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.022641509433962263
+      },
+      "CUMULATE": {
+        "n_samples": 495,
+        "n_fertile_intrusions": 16,
+        "n_barren_intrusions": 9,
+        "auc_w": 0.6686887037310216,
+        "auc_intrusion": 0.7152777777777778,
+        "ci_low": 0.4612219429832587,
+        "ci_high": 0.8367250756753855,
+        "status": "ok",
+        "coverage": 0.1689419795221843
+      },
+      "ALTERED": {
+        "n_samples": 98,
+        "n_fertile_intrusions": 8,
+        "n_barren_intrusions": 5,
+        "auc_w": 0.5877173913043479,
+        "auc_intrusion": 0.7,
+        "ci_low": 0.2989668251811594,
+        "ci_high": 0.8549193463164251,
+        "status": "ok",
+        "coverage": 0.20502092050209206
+      },
+      "UNRESOLVED": {
+        "n_samples": 338,
+        "n_fertile_intrusions": 14,
+        "n_barren_intrusions": 7,
+        "auc_w": 0.5676722080960357,
+        "auc_intrusion": 0.5510204081632653,
+        "ci_low": 0.34992573791015946,
+        "ci_high": 0.786336944036695,
+        "status": "ok",
+        "coverage": 0.13030069390902083
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 424,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 17,
+        "auc_w": 0.663582985782406,
+        "auc_intrusion": 0.7142857142857143,
+        "ci_low": 0.39720902194068425,
+        "ci_high": 0.8605235208998596,
+        "status": "ok",
+        "coverage": 0.09962406015037593
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 42,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 4,
+        "status": "insufficient",
+        "coverage": 0.08366533864541832
+      },
+      "CUMULATE": {
+        "n_samples": 184,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 8,
+        "auc_w": 0.7455649920754085,
+        "auc_intrusion": 0.8333333333333334,
+        "ci_low": 0.5496449392100434,
+        "ci_high": 0.9136655512046137,
+        "status": "ok",
+        "coverage": 0.09050664043285785
+      },
+      "ALTERED": {
+        "n_samples": 72,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 4,
+        "status": "insufficient",
+        "coverage": 0.2535211267605634
+      },
+      "UNRESOLVED": {
+        "n_samples": 126,
+        "n_fertile_intrusions": 5,
+        "n_barren_intrusions": 10,
+        "auc_w": 0.6036542227398205,
+        "auc_intrusion": 0.62,
+        "ci_low": 0.2703822334368531,
+        "ci_high": 0.8896031125992062,
+        "status": "ok",
+        "coverage": 0.08768267223382047
+      }
+    }
+  },
+  "s_se": {
+    "all": {
+      "ALL": {
+        "n_samples": 227,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 7,
+        "auc_w": 0.6048890152206483,
+        "auc_intrusion": 0.5714285714285714,
+        "ci_low": 0.3497866850928077,
+        "ci_high": 0.8339201277976775,
+        "status": "ok",
+        "coverage": 0.01972026757015029
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 10,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 0,
+        "status": "insufficient",
+        "coverage": 0.004260758414997869
+      },
+      "CUMULATE": {
+        "n_samples": 147,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 4,
+        "status": "insufficient",
+        "coverage": 0.03917910447761194
+      },
+      "ALTERED": {
+        "n_samples": 20,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.02677376171352075
+      },
+      "UNRESOLVED": {
+        "n_samples": 50,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 6,
+        "status": "insufficient",
+        "coverage": 0.010718113612004287
+      }
+    },
+    "barren_medium_high_only": {
+      "ALL": {
+        "n_samples": 190,
+        "n_fertile_intrusions": 7,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.025026343519494204
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 10,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 0,
+        "status": "insufficient",
+        "coverage": 0.006289308176100629
+      },
+      "CUMULATE": {
+        "n_samples": 131,
+        "n_fertile_intrusions": 6,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.0447098976109215
+      },
+      "ALTERED": {
+        "n_samples": 10,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 0,
+        "status": "insufficient",
+        "coverage": 0.02092050209205021
+      },
+      "UNRESOLVED": {
+        "n_samples": 39,
+        "n_fertile_intrusions": 3,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.015034695451040863
+      }
+    },
+    "test": {
+      "ALL": {
+        "n_samples": 34,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.007988721804511278
+      },
+      "LIQUID_PROXY": {
+        "n_samples": 5,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 0,
+        "status": "insufficient",
+        "coverage": 0.0099601593625498
+      },
+      "CUMULATE": {
+        "n_samples": 16,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 2,
+        "status": "insufficient",
+        "coverage": 0.007870142646335464
+      },
+      "ALTERED": {
+        "n_samples": 5,
+        "n_fertile_intrusions": 2,
+        "n_barren_intrusions": 1,
+        "status": "insufficient",
+        "coverage": 0.017605633802816902
+      },
+      "UNRESOLVED": {
+        "n_samples": 8,
+        "n_fertile_intrusions": 1,
+        "n_barren_intrusions": 3,
+        "status": "insufficient",
+        "coverage": 0.0055671537926235215
+      }
+    }
+  }
+}

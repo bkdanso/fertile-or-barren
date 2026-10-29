@@ -1,0 +1,26 @@
+{
+  "files": 435,
+  "rows_read": 534610,
+  "rows_plutonic": 117183,
+  "rows_plutonic_mafic_um_name": 31900,
+  "rows_malformed_unique_id": 1,
+  "unique_samples_in_georoc_union": 521961,
+  "duplicate_rows_dropped": 14,
+  "mafic_ultramafic_plutonic_samples": 31886,
+  "dropped_xenolith_or_kimberlite": 91,
+  "dropped_ophiolite_or_abyssal_mantle": 92,
+  "dropped_alkaline_carbonatite_complex": 411,
+  "dropped_orogenic_mantle_massif": 507,
+  "dropped_ore_sample": 1,
+  "curated_pattern_matches": {
+    "^JINCHUAN AREA$": 14,
+    "^HUANGSHANDONG DEPOSIT$": 5,
+    "^HUANGSHANNAN DEPOSIT$": 3
+  },
+  "samples_without_intrusion_name": 16395,
+  "samples_renamed_by_alias": 59,
+  "rocktypes_plutonic_ids": 31222,
+  "rocktypes_ids_missing_from_settings_union": 160,
+  "samples_kept": 14389,
+  "intrusions": 965
+}

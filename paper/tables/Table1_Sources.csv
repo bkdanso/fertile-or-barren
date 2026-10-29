@@ -1,0 +1,6 @@
+Source,Producer,Version,Used for,Records,License,Identifier
+GEOROC precompiled compilations (10 tectonic-setting compilations),"DIGIS Team, GRO.data",September 2026 (v13.0),Whole-rock geochemistry,"521,961 unique analyses",CC BY-SA 4.0,doi:10.25625/1KRR1P and 9 others (code/01_fetch.py)
+GEOROC Compilation: Rock Types (mafic-ultramafic files),"DIGIS Team, GRO.data",September 2026 (v15.0),Completeness cross-check,"31,222 plutonic analyses; 160 absent from the union",CC BY-SA 4.0,doi:10.25625/2JETOA
+Critical Mineral Deposits of the United States,"Hammarstrom, Woodruff and Dicken (USGS)","ver. 3.0, September 2026",Deposit locations (US),37 Ni-Cu-PGE / PGE deposits used,CC0,doi:10.5066/P9K1HBNT
+Magmatic Ni-Cu-PGE inventory,Parks et al. (USGS),2026,Host intrusions and resources (US),Intrusion names matched,CC0,doi:10.5066/P1YLGLUZ
+Mineral Resources Data System (MRDS),USGS,Full CSV export,Deposit and occurrence locations (global),665 magmatic Ni or PGE records used,Public domain,https://mrdata.usgs.gov/mrds/

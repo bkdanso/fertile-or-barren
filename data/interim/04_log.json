@@ -1,0 +1,91 @@
+{
+  "benchmark_samples": 13025,
+  "benchmark_intrusions": 514,
+  "samples_by_label": {
+    "BARREN": 8464,
+    "FERTILE": 3047,
+    "WEAK": 1514
+  },
+  "intrusions_by_label": {
+    "BARREN": 461,
+    "FERTILE": 34,
+    "WEAK": 19
+  },
+  "samples_by_type": {
+    "UNRESOLVED": 5442,
+    "CUMULATE": 4150,
+    "FINE_GRAINED_DIKE_SILL": 2412,
+    "ALTERED": 854,
+    "CHILLED_MARGIN": 167
+  },
+  "type_by_label": {
+    "ALTERED": {
+      "BARREN": 526,
+      "FERTILE": 221,
+      "WEAK": 107
+    },
+    "CHILLED_MARGIN": {
+      "BARREN": 107,
+      "FERTILE": 8,
+      "WEAK": 52
+    },
+    "CUMULATE": {
+      "BARREN": 1776,
+      "FERTILE": 1976,
+      "WEAK": 398
+    },
+    "FINE_GRAINED_DIKE_SILL": {
+      "BARREN": 2185,
+      "FERTILE": 47,
+      "WEAK": 180
+    },
+    "UNRESOLVED": {
+      "BARREN": 3870,
+      "FERTILE": 795,
+      "WEAK": 777
+    }
+  },
+  "rule_strength": {
+    "none": 5442,
+    "strong": 4968,
+    "weak": 2615
+  },
+  "split_intrusions": [
+    {
+      "split": "test",
+      "label": "BARREN",
+      "n": 138
+    },
+    {
+      "split": "test",
+      "label": "FERTILE",
+      "n": 10
+    },
+    {
+      "split": "test",
+      "label": "WEAK",
+      "n": 6
+    },
+    {
+      "split": "train",
+      "label": "BARREN",
+      "n": 323
+    },
+    {
+      "split": "train",
+      "label": "FERTILE",
+      "n": 24
+    },
+    {
+      "split": "train",
+      "label": "WEAK",
+      "n": 13
+    }
+  ],
+  "review_rows": 199,
+  "analyte_columns": 96,
+  "pge_unit_corrected_samples": 19,
+  "pge_unit_flag_references": [],
+  "pge_values_blanked_samples": 0,
+  "mgo_values_blanked_non_anorthosite": 69
+}

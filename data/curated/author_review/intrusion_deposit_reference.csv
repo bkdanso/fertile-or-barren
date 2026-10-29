@@ -1,0 +1,58 @@
+intrusion_key,deposit_name,deposit_type,reference
+GOLDEN VALLEY,NA,None,NA
+NARANKAVAARA,Narankavaara PGE Prospect,PGE,Alapieti et al.
+VINALHAVEN,NA,None,NA
+MAMBULA,NA,None,NA
+PALISADES,NA,None,NA
+TUGELA RAND,NA,None,NA
+KIVAKKA,Kivakka PGE Prospect,PGE,Alapieti et al.
+AUSTURHORN,NA,None,NA
+FISKENAESSET,Fiskenaesset Chromite Deposit,Chromite,Garde et al.
+CHILAS,Chilas Chromite Occurrences,Chromite,Jan and Windley
+JIJAL,Jijal Chromite Occurrences,Chromite,Jan and Windley
+RHUM,Rhum Chromitite and PGE Mineralization,Cr-PGE,O'Driscoll et al.
+DOROS,Doros Fe-Ti-V Occurrences,Fe-Ti-V,Namibian Geological Survey
+KIGLAPAIT,Kiglapait Fe-Ti-V Deposit,Fe-Ti-V,Morse
+COLDWELL,Marathon Cu-PGE Deposit,Cu-PGE,Generation Mining
+DOVYREN,Yoko-Dovyren Deposit,Ni-Cu-PGE,Ariskin et al.
+XIARIHAMU,Xiarihamu Ni-Cu Deposit,Ni-Cu,Song et al.
+POBEI,Pobei Ni-Cu Deposit,Ni-Cu,Zhang et al.
+POYI,Poyi Ni-Cu Deposit,Ni-Cu,Chinese Geological Survey
+KEVITSA,Kevitsa Deposit,Ni-Cu-PGE,Anglo American
+HULU,Hulu Ni-Cu Deposit,Ni-Cu,Xinjiang Geological Bureau
+BAIXINTAN,Baixintan Ni-Cu Deposit,Ni-Cu,Tang et al.
+LANGMURI,Langmuri Ni-Cu Deposit,Ni-Cu,Chinese Geological Survey
+LIMAHE,Limahe Ni-Cu Deposit,Ni-Cu,Song et al.
+LUANGA,Luanga PGE-Ni Deposit,PGE-Ni,Centaurus Metals
+NORILSK,Norilsk-Talnakh Deposit,Ni-Cu-PGE,Naldrett
+WELLGREEN,Wellgreen (Nickel Shaw) Deposit,Ni-Cu-PGE,Nickel Creek
+JINCHUAN,Jinchuan Deposit,Ni-Cu-PGE,Song et al.
+KATINIQ,Raglan-Katinniq Deposit,Ni-Cu,Glencore
+GREAT DYKE ZIMBABWE,Main Sulfide Zone,Pt-Pd-Ni-Cu,Zimplats
+PANSKIE TUNDRY,Fedorova-Pana Deposit,PGE,Schissel et al.
+NOVA SIRIUS,Nova-Bollinger Deposit,Ni-Cu-Co,IGO
+LAMBOO PANTON,Panton Deposit,PGE-Ni,Future Metals
+HUANGSHANDONG,Huangshandong Deposit,Ni-Cu,Mao et al.
+MUSKOX,Muskox Cu-Ni-PGE Occurrences,Ni-Cu-PGE,Geological Survey of Canada
+SKAERGAARD,Platinova Reef,Au-PGE,Rudashevsky et al. 2023
+KHUDOLAZ,Khudolaz Deposit,Ni-Cu-PGE,Distler et al.
+PENIKAT,Penikat Reef,PGE,Alapieti and Lahtinen
+CARAIBA,Caraiba Cu Deposit,Cu,Brazilian Geological Survey
+SOUTH PYASINO,Norilsk District Mineralization,Ni-Cu-PGE,Naldrett
+XINJIE,Xinjie Deposit,Ni-Cu-PGE,Song et al.
+VOLOGOCHAN,Norilsk District Mineralization,Ni-Cu-PGE,Naldrett
+ZUB MARKSHEIDER,Norilsk District Mineralization,Ni-Cu-PGE,Naldrett
+TAMPANCHI,Tampanchi Ni-Cu Occurrence,Ni-Cu,Ecuador Geological Survey
+KOITELAINEN,Koitelainen Reef,PGE,Alapieti and Lahtinen
+MONCHETUNDRA,Monchetundra Deposit,PGE,Sharkov
+NARNDEE,Narndee Ni-Cu-PGE Deposit,Ni-Cu-PGE,Cazaly Resources
+TUERKUBANTAO,Tuerkubantao Deposit,Ni-Cu,Xinjiang Geological Bureau
+ABU HAMAMID,Abu Hamamid Ni-Cu Occurrence,Ni-Cu,Egypt Geological Survey
+NIZHNY TAGIL,Nizhny Tagil Fe-Ti-V Deposit,Fe-Ti-V,Russian Geological Survey
+MAYVILLE,Mayville Deposit,Ni-Cu,Wisconsin Geological Survey
+DUMONT,Dumont Nickel Deposit,Nickel,Waterton
+EXPO,Expo Deposit,Ni-Cu-PGE,Nunavik Nickel
+NTAKA,Ntaka Hill Deposit,Nickel,Lifezone Metals
+KAMMIKIVI,Kammikivi Prospect,Ni-Cu-PGE,GTK
+KOILLISMAA,Koillismaa Reef,PGE,Alapieti et al.
+PILGUJARVI,Pechenga-Pilgujarvi Deposit,Ni-Cu,Melezhik et al.

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below, and cite GEOROC and the original sample publications."
+type: dataset
+title: "Fertile or Barren: an open benchmark of mineralized and barren mafic-ultramafic intrusions"
+version: "0.1.0"
+date-released: "2026-10-29"
+authors:
+  - family-names: "Danso"
+    given-names: "Bezali Kwame"
+    orcid: "https://orcid.org/0009-0006-1201-4129"
+    affiliation: "Independent Researcher, East Lansing, Michigan, USA"
+  - family-names: "Dankwa"
+    given-names: "Josephine Opare"
+    orcid: "https://orcid.org/0009-0000-6105-1213"
+    affiliation: "Independent Researcher, Springfield, Missouri, USA"
+  - family-names: "Aidoo"
+    given-names: "Adwoa Aduaba"
+    orcid: "https://orcid.org/0009-0000-4363-8651"
+    affiliation: "Independent Researcher, Mine Geologist, Benso, Ghana"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/bkdanso/fertile-or-barren"
+doi: "10.5281/zenodo.23777406"
+keywords:
+  - magmatic sulfide
+  - Ni-Cu-PGE
+  - fertility index
+  - benchmark
+  - GEOROC
+  - critical minerals

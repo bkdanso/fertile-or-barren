@@ -1,0 +1,17 @@
+Stage,Count
+GEOROC rows read (10 compilations),534610
+Unique analyses in the union,521961
+Plutonic rows,117183
+Plutonic with a mafic-ultramafic rock name (unique),31886
+  removed: mantle xenoliths / kimberlite-hosted,-91
+  removed: ophiolite / abyssal mantle,-92
+  removed: alkaline-carbonatite complexes,-411
+  removed: orogenic mantle massifs,-507
+  removed: samples named as ore,-1
+  removed: no intrusion name in GEOROC,-16395
+Samples assigned to a named intrusion,14389
+Intrusions (any size),965
+Intrusions with >= 5 samples,536
+"  removed: excluded by the authors (groups, ophiolites, generic names)",-22
+Benchmark intrusions,514
+Benchmark samples,13025

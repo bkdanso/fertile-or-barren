@@ -1,0 +1,56 @@
+{
+  "intrusions_with_min_samples": 536,
+  "label_counts": {
+    "BARREN": 461,
+    "FERTILE": 34,
+    "EXCLUDE": 22,
+    "WEAK": 19
+  },
+  "label_by_confidence": [
+    {
+      "label": "BARREN",
+      "confidence": "HIGH",
+      "n": 15
+    },
+    {
+      "label": "BARREN",
+      "confidence": "LOW",
+      "n": 367
+    },
+    {
+      "label": "BARREN",
+      "confidence": "MEDIUM",
+      "n": 79
+    },
+    {
+      "label": "EXCLUDE",
+      "confidence": "HIGH",
+      "n": 22
+    },
+    {
+      "label": "FERTILE",
+      "confidence": "HIGH",
+      "n": 31
+    },
+    {
+      "label": "FERTILE",
+      "confidence": "MEDIUM",
+      "n": 3
+    },
+    {
+      "label": "WEAK",
+      "confidence": "HIGH",
+      "n": 17
+    },
+    {
+      "label": "WEAK",
+      "confidence": "MEDIUM",
+      "n": 2
+    }
+  ],
+  "curated_used": 140,
+  "curated_vs_auto_disagreements": 66,
+  "review_rows": 66,
+  "mrds_magmatic_ni_pge_records": 665,
+  "usgs_cm_ni_pge_deposits": 37
+}

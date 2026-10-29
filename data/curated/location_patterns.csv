@@ -1,0 +1,4 @@
+pattern,intrusion_name,note
+^JINCHUAN AREA$,JINCHUAN INTRUSION,GEOROC records only 'Jinchuan area'; the mafic-ultramafic rocks there are assigned to the Jinchuan intrusion (confirmed by the authors in Oct 2026)
+^HUANGSHANDONG DEPOSIT$,HUANGSHANDONG INTRUSION,host intrusion of the named deposit
+^HUANGSHANNAN DEPOSIT$,HUANGSHANNAN INTRUSION,host intrusion of the named deposit
