@@ -1,8 +1,8 @@
 # Fertile or Barren
 
-**Status: released v0.1.0 (29 October 2026). Data and code DOI: [10.5281/zenodo.23777406](https://doi.org/10.5281/zenodo.23777406). Manuscript in preparation.**
+**Status: v0.1.2 (5 November 2026). Preprint: EarthArXiv, [doi:10.31223/X5M23T](https://doi.org/10.31223/X5M23T) (not peer reviewed; PDF also in [paper/preprint/](paper/preprint/Danso_et_al_2026_Fertile_or_Barren_preprint.pdf)). Data and code DOI: [10.5281/zenodo.23987170](https://doi.org/10.5281/zenodo.23987170); all versions: [10.5281/zenodo.23777405](https://doi.org/10.5281/zenodo.23777405).**
 
-An open benchmark for testing geochemical fertility indices for magmatic Ni-Cu-PGE sulfide deposits. The benchmark contains 13,025 whole-rock analyses from 514 mafic-ultramafic intrusions labeled fertile, weakly mineralized, or barren, together with sample-type classifications, a reproducible scoring workflow, and a public leaderboard. Manuscript in preparation.
+An open benchmark for testing geochemical fertility indices for magmatic Ni-Cu-PGE sulfide deposits. The benchmark contains 13,025 whole-rock analyses from 514 mafic-ultramafic intrusions labeled fertile, weakly mineralized, or barren, together with sample-type classifications, a reproducible scoring workflow, and a public leaderboard.
 
 <!-- HEADLINE:START -->
 **Headline numbers (from paper/stats.json):** 13,025 samples from 514 intrusions (34 fertile, 19 weakly mineralized, 461 barren). Best index: Pd/Ir, AUC 0.75 (95% CI 0.62-0.85). 3 indices rank barren intrusions above fertile ones (Ni/Cu, Ni depletion (vs MgO), Cu/Zr). Full table: [leaderboard/LEADERBOARD.md](leaderboard/LEADERBOARD.md).
@@ -20,7 +20,7 @@ An open benchmark for testing geochemical fertility indices for magmatic Ni-Cu-P
 | `code/score.py` | **The public scoring program** |
 | `code/indices.py` | Definitions of the published indices |
 | `leaderboard/LEADERBOARD.md` | The results table; `results.csv` has every number |
-| `paper/` | Figures (`figures/`, PNG 300 dpi, PDF, SVG), tables (`tables/`, CSV and Excel), captions and `stats.json`. The manuscript is written by the authors and posted separately. |
+| `paper/` | The preprint (`preprint/`), figures (`figures/`, PNG 300 dpi, PDF, SVG), tables (`tables/`, CSV and Excel), captions and `stats.json` |
 | `docs/` | Codebook, scoring rules, limitations, next steps, verification record, and the review files behind the labels |
 
 ## Score your own method
@@ -64,7 +64,15 @@ Code: MIT ([LICENSE](LICENSE)). Data: CC BY-SA 4.0 ([LICENSE-DATA](LICENSE-DATA)
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). DOI: [10.5281/zenodo.23777406](https://doi.org/10.5281/zenodo.23777406).
+See [CITATION.cff](CITATION.cff). DOI for this version: [10.5281/zenodo.23987170](https://doi.org/10.5281/zenodo.23987170); DOI for all versions: [10.5281/zenodo.23777405](https://doi.org/10.5281/zenodo.23777405).
+
+Preprint: Danso, B.K., Dankwa, J.O., Aidoo, A.A. (2026). Fertile or Barren: an open benchmark for testing geochemical fertility indices on mineralized and barren mafic-ultramafic intrusions. EarthArXiv (not peer reviewed). https://doi.org/10.31223/X5M23T
+
+## Version history
+
+- v0.1.2 (5 November 2026): adds the EarthArXiv DOI of the preprint (10.31223/X5M23T); final preprint PDF; Figure 1b redrawn so all labels sit inside the frame. Data, labels and scores are unchanged from v0.1.0.
+- v0.1.1 (30 October 2026): adds the preprint and Figure 1b (benchmark intrusions in the conterminous United States, with USGS deposits). Data, labels and scores are unchanged from v0.1.0.
+- v0.1.0 (29 October 2026): first release.
 
 ## Authors
 

@@ -1,0 +1,24 @@
+# Raw downloads are large (about 500 MB) and re-fetched by code/01_fetch.py; their fingerprints are in PROVENANCE.txt
+data/raw/*
+!data/raw/PROVENANCE.txt
+data/interim/*.csv.gz
+data/interim/random_submission.csv
+__pycache__/
+*.pyc
+.env
+*.token
+.DS_Store
+*.part
+
+# Author-facing working files: kept on the authors' copy, not published
+docs/START_HERE.md
+docs/VERIFY_CHECKLIST.md
+docs/PUBLISH_GUIDE.md
+docs/TALK_TRACK.md
+docs/GLOSSARY.md
+docs/BUILD_SPEC.md
+docs/evidence_log.csv
+docs/zenodo_metadata.json
+docs/review/README.md
+data/curated/author_review/VERIFY_CHECKLIST_completed.md
+tools/
